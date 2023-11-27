@@ -9768,7 +9768,7 @@ h4.sub-title {
   width: 10px;
   height: 10px;
   background: var(--white-color);
-  border: 1px #d5d5d5ee solid;
+  border: 1px #ffffff solid;
   display: block;
   border-right: none;
   border-bottom: none;
@@ -10768,7 +10768,7 @@ button.owl-next {
   -ms-transition: 0.3s ease-in; }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/1.jpg) no-repeat center;
+  background: url(../images/indx3.jpg) no-repeat center;
   background-size: cover;
   min-height: 750px;
   position: relative;
@@ -12238,7 +12238,7 @@ ul.partners-icon li span.fa:hover {
 /*--services --*/
 .w3-about-2 .w3-services-ab {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(../images/4.jpg);
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(../images/abtA2.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat; }
 
 .w3-about-2 .fea-gd-vv h5 {
@@ -12606,6 +12606,34 @@ ul.partners-icon li span.fa:hover {
   font-size: 17px;
   line-height: 25px;
   margin-bottom: 40px; }
+
+.points {
+    margin-bottom: 20px; /* Adds some bottom margin for spacing */
+}
+
+.points ul {
+    list-style: none; /* Removes default list styles */
+    padding-left: 0; /* Removes default left padding */
+}
+
+.points ul li {
+    margin-bottom: 10px; /* Adds spacing between each point */
+    position: relative;
+}
+
+.points ul li::before {
+    content: "\2022"; /* Unicode for the bullet point */
+    color: #000; /* Change color of the bullet point */
+    font-size: 1.2em; /* Adjust size of the bullet point */
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em; /* Adjust spacing between bullet point and text */
+    position: absolute;
+    left: 0;
+    top: 0.3em; /* Adjust vertical alignment */
+}
+
+
 
 .w3l-contacts-12 .cont-add {
   grid-template-columns: 1fr auto;

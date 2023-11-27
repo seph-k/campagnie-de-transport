@@ -2355,6 +2355,7 @@
 *::before,
 *::after {
   box-sizing: border-box; }
+  
 
 html {
   font-family: sans-serif;
@@ -11866,7 +11867,7 @@ ul.partners-icon li span.fa:hover {
   text-align: center; }
 
 .w3l-footer-29-main .footer-29 {
-  background: url(../images/4.jpg) no-repeat 0px 0px;
+  background: url(../images/img86.jpg) no-repeat 0px 0px;
   background-size: cover;
   padding: 4rem 0px;
   background-attachment: fixed;
@@ -12744,7 +12745,7 @@ ul.partners-icon li span.fa:hover {
 
 .w3l-about-breadcrum .breadcrum-bg {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/2.jpg);
+  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/indx5.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -12786,7 +12787,7 @@ ul.partners-icon li span.fa:hover {
 
 .w3l-contact-breadcrum .breadcrum-bg {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/5.jpg);
+  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/img24.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -12828,7 +12829,7 @@ ul.partners-icon li span.fa:hover {
 
 .w3l-service-breadcrum .breadcrum-bg {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/3.jpg);
+  background-image: linear-gradient(to right, rgba(42, 42, 42, 0.71), rgba(38, 40, 40, 0.78)), url(../images/indx7.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
